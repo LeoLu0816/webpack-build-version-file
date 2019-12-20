@@ -1,0 +1,8 @@
+{
+  "name": "webpack-build-version-file",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {}
+}
